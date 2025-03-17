@@ -8,3 +8,8 @@ ACESSANDO DIRETORIO DO INSTALADOR & INICIANDO INSTALAÇÕES ADICIONAIS PRECISA U
 ```bash
 cd && cd ./install && sudo ./install_instancia
 ```
+LINK PARA INSTALAR
+
+```bash
+https://github.com/Hunelyton/wtkapp.git
+```
