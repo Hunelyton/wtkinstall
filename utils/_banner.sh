@@ -21,7 +21,7 @@ print_banner() {
 
   printf "\n\n"
 
-printf "${CYAN_LIGHT}";
+printf "${CYAN_LIGHT}"
 
 printf ${CYAN_LIGHT}"    _____ _____ _   _ ___________ _____ _____  _   _   ___ _____ \n";
 printf ${CYAN_LIGHT}"   |  ___|  _  | | | |_   _| ___ \  ___/  __ \| | | | / _ \_   _| \n";
